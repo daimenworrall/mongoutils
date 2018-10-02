@@ -1,8 +1,14 @@
 {
   "name": "@seiren/mongoutils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
-  "license": "MIT",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daimenworrall/mongoutils.git"
+  },
+  "keywords": ["mongo", "utilities", "mongodb", "mongorestore", "mongodump"],
+  "author": "Daimen Worrall",
   "dependencies": {
     "child_process": "^1.0.2"
   }
