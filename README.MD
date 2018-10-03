@@ -4,7 +4,7 @@ A collection of utilities to make and restore backups via mongodump and mongores
 
 ### Including
 ```javascript
-const mongoutils = require('mongoutils');
+const mongoutils = require('@seiren/mongoutils');
 ```
 
 ### API
